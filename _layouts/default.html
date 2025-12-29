@@ -101,13 +101,13 @@ layout: root
     })();
   </script>
 
-  <script type="text/javascript" src="/javascripts/navigation-toggle.js" defer></script>
-  <script type="text/javascript" src="/javascripts/header-navigation.js" defer></script>
-  <script type="text/javascript" src="/javascripts/toc.js" defer></script>
-  <script type="text/javascript" src="/javascripts/theme-toggle.js" defer></script>
+  <script type="text/javascript" src="/assets/js/navigation-toggle.js" defer></script>
+  <script type="text/javascript" src="/assets/js/header-navigation.js" defer></script>
+  <script type="text/javascript" src="/assets/js/toc.js" defer></script>
+  <script type="text/javascript" src="/assets/js/theme-toggle.js" defer></script>
   {% if layout.javascript != null %}
   {% for javascript in layout.javascript %}
-  <script type="text/javascript" src="/javascripts/{{ javascript }}.js"></script>
+  <script type="text/javascript" src="/js/{{ javascript }}.js"></script>
   {% endfor %}
   {% endif %}
 </head>
