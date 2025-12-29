@@ -22,5 +22,5 @@ Zawiera Logo Rubiego w wielu formatach
 (PNG, JPG, PDF, AI, SWF, XAR).
 
 
-[logo]: /images/header-ruby-logo.png
+[logo]: /assets/images/header-ruby-logo.png
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/2.5/

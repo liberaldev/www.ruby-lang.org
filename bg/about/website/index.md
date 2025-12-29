@@ -12,17 +12,17 @@ lang: bg
 Настоящият визуален дизайн е изготвен от [Taeko Akatsuka][akatsuka].
 Сайтът беше обновен през декември 2025 г.
 
-<img src="../../../images/about/screenshot.png" alt="Настоящ дизайн на ruby-lang.org" width="400" style="border: 1px solid #d6d3d1;" />
+<img src="../../../assets/images/about/screenshot.png" alt="Настоящ дизайн на ruby-lang.org" width="400" style="border: 1px solid #d6d3d1;" />
 
 "Happy Hacking" в долния колонтитул е написано на ръка от [Yukihiro Matsumoto (Matz)][matz].
 
-<img src="../../../images/about/screenshot-happy-hacking.png" alt="Happy Hacking в долния колонтитул" width="400" style="border: 1px solid #d6d3d1;" />
+<img src="../../../assets/images/about/screenshot-happy-hacking.png" alt="Happy Hacking в долния колонтитул" width="400" style="border: 1px solid #d6d3d1;" />
 
 ## Предишен дизайн
 
 Визуалният дизайн преди декември 2025 г. е изготвен от [Jason Zimdars][jzimdars].<br>
 
-<img src="../../../images/about/screenshot-ruby-lang-old.png" alt="Предишен дизайн на ruby-lang.org" width="400" style="border: 1px solid #d6d3d1;" />
+<img src="../../../assets/images/about/screenshot-ruby-lang-old.png" alt="Предишен дизайн на ruby-lang.org" width="400" style="border: 1px solid #d6d3d1;" />
 
 ## Лого
 
@@ -54,19 +54,19 @@ lang: bg
 <table class="not-prose sponsor-table">
   <tr>
     <td><a href="http://www.ruby.or.jp">Ruby Association</a> (хостинг)</td>
-    <td class="sponsor-logo"><img src="../../../images/about/sponsor/ra.png" alt="Ruby Association" /></td>
+    <td class="sponsor-logo"><img src="../../../assets/images/about/sponsor/ra.png" alt="Ruby Association" /></td>
   </tr>
   <tr>
     <td><a href="http://ruby-no-kai.org/">Ruby no Kai</a> (build сървър)</td>
-    <td class="sponsor-logo"><img src="../../../images/about/sponsor/ruby-no-kai.png" alt="Ruby no Kai" /></td>
+    <td class="sponsor-logo"><img src="../../../assets/images/about/sponsor/ruby-no-kai.png" alt="Ruby no Kai" /></td>
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/">AWS</a> (хостинг)</td>
-    <td class="sponsor-logo"><img src="../../../images/about/sponsor/aws.png" alt="AWS" style="width: 150px;" /></td>
+    <td class="sponsor-logo"><img src="../../../assets/images/about/sponsor/aws.png" alt="AWS" style="width: 150px;" /></td>
   </tr>
   <tr>
     <td><a href="https://www.heroku.com/">Heroku</a> (хостинг)</td>
-    <td class="sponsor-logo"><img src="../../../images/about/sponsor/heroku.png" alt="Heroku" style="width: 100px;" /></td>
+    <td class="sponsor-logo"><img src="../../../assets/images/about/sponsor/heroku.png" alt="Heroku" style="width: 100px;" /></td>
   </tr>
   <tr>
     <td><a href="https://www.ibm.com/">IBM</a> (хостинг)</td>
@@ -74,19 +74,19 @@ lang: bg
   </tr>
   <tr>
     <td><a href="http://www.fastly.com">Fastly</a> (CDN)</td>
-    <td class="sponsor-logo"><img src="../../../images/about/sponsor/fastly.png" alt="Fastly" style="width: 200px;" /></td>
+    <td class="sponsor-logo"><img src="../../../assets/images/about/sponsor/fastly.png" alt="Fastly" style="width: 200px;" /></td>
   </tr>
   <tr>
     <td><a href="http://hatenacorp.jp/">Hatena</a> (<a href="https://mackerel.io/">Mackerel</a>, сървърен мониторинг)</td>
-    <td class="sponsor-logo"><img src="../../../images/about/sponsor/mackerel.png" alt="Mackerel" /></td>
+    <td class="sponsor-logo"><img src="../../../assets/images/about/sponsor/mackerel.png" alt="Mackerel" /></td>
   </tr>
   <tr>
     <td><a href="https://www.datadoghq.com/">Datadog</a> (сървърен мониторинг)</td>
-    <td class="sponsor-logo"><img src="../../../images/about/sponsor/dd.png" alt="Datadog" style="width: 120px;" /></td>
+    <td class="sponsor-logo"><img src="../../../assets/images/about/sponsor/dd.png" alt="Datadog" style="width: 120px;" /></td>
   </tr>
   <tr>
     <td><a href="https://1password.com/">1Password</a> (мениджър на пароли)</td>
-    <td class="sponsor-logo"><img src="../../../images/about/sponsor/1password.png" alt="1Password" style="width: 250px;" /></td>
+    <td class="sponsor-logo"><img src="../../../assets/images/about/sponsor/1password.png" alt="1Password" style="width: 250px;" /></td>
   </tr>
 </table>
 

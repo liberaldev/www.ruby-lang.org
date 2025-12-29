@@ -16,6 +16,6 @@ Ruby 標誌版權屬於松本行弘（Copyright &copy; 2006, Yukihiro Matsumoto�
 [Ruby 標誌包][logo-kit] 包含了多種格式的 Ruby 標誌（PNG、JPG、PDF、AI、SWF、XAR）。
 
 
-[logo]: /images/header-ruby-logo.png
+[logo]: /assets/images/header-ruby-logo.png
 [logo-kit]: https://cache.ruby-lang.org/pub/misc/logo/ruby-logo-kit.zip
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/2.5/

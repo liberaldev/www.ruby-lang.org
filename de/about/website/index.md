@@ -12,18 +12,18 @@ der Quelltext wird auf [GitHub][github-repo] gehostet.
 Das aktuelle visuelle Design stammt von [Taeko Akatsuka][akatsuka].
 Die Website wurde im Dezember 2025 erneuert.
 
-<img src="../../../images/about/screenshot.png" alt="Aktuelles ruby-lang.org Design" width="400" style="border: 1px solid #d6d3d1;" />
+<img src="../../../assets/images/about/screenshot.png" alt="Aktuelles ruby-lang.org Design" width="400" style="border: 1px solid #d6d3d1;" />
 
 Das "Happy Hacking" in der Fußzeile ist handgeschrieben von [Yukihiro Matsumoto (Matz)][matz].
 
-<img src="../../../images/about/screenshot-happy-hacking.png" alt="Happy Hacking in der Fußzeile" width="400" style="border: 1px solid #d6d3d1;" />
+<img src="../../../assets/images/about/screenshot-happy-hacking.png" alt="Happy Hacking in der Fußzeile" width="400" style="border: 1px solid #d6d3d1;" />
 
 ## Früheres Design
 
 Visual Design vor Dezember 2025 von [Jason Zimdars][jzimdars],<br>
 basierend auf einem früheren Design des Ruby Visual Identity Teams.
 
-<img src="../../../images/about/screenshot-ruby-lang-old.png" alt="Früheres ruby-lang.org Design" width="400" style="border: 1px solid #d6d3d1;" />
+<img src="../../../assets/images/about/screenshot-ruby-lang-old.png" alt="Früheres ruby-lang.org Design" width="400" style="border: 1px solid #d6d3d1;" />
 
 ## Logo
 
@@ -55,19 +55,19 @@ Wir danken außerdem den Organisationen, die uns unterstützen:
 <table class="not-prose sponsor-table">
   <tr>
     <td><a href="http://www.ruby.or.jp">Ruby Association</a> (Hosting)</td>
-    <td class="sponsor-logo"><img src="../../../images/about/sponsor/ra.png" alt="Ruby Association" /></td>
+    <td class="sponsor-logo"><img src="../../../assets/images/about/sponsor/ra.png" alt="Ruby Association" /></td>
   </tr>
   <tr>
     <td><a href="http://ruby-no-kai.org/">Ruby no Kai</a> (Build-Server)</td>
-    <td class="sponsor-logo"><img src="../../../images/about/sponsor/ruby-no-kai.png" alt="Ruby no Kai" /></td>
+    <td class="sponsor-logo"><img src="../../../assets/images/about/sponsor/ruby-no-kai.png" alt="Ruby no Kai" /></td>
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/">AWS</a> (Hosting)</td>
-    <td class="sponsor-logo"><img src="../../../images/about/sponsor/aws.png" alt="AWS" style="width: 150px;" /></td>
+    <td class="sponsor-logo"><img src="../../../assets/images/about/sponsor/aws.png" alt="AWS" style="width: 150px;" /></td>
   </tr>
   <tr>
     <td><a href="https://www.heroku.com/">Heroku</a> (Hosting)</td>
-    <td class="sponsor-logo"><img src="../../../images/about/sponsor/heroku.png" alt="Heroku" style="width: 100px;" /></td>
+    <td class="sponsor-logo"><img src="../../../assets/images/about/sponsor/heroku.png" alt="Heroku" style="width: 100px;" /></td>
   </tr>
   <tr>
     <td><a href="https://www.ibm.com/">IBM</a> (Hosting)</td>
@@ -75,19 +75,19 @@ Wir danken außerdem den Organisationen, die uns unterstützen:
   </tr>
   <tr>
     <td><a href="http://www.fastly.com">Fastly</a> (CDN)</td>
-    <td class="sponsor-logo"><img src="../../../images/about/sponsor/fastly.png" alt="Fastly" style="width: 200px;" /></td>
+    <td class="sponsor-logo"><img src="../../../assets/images/about/sponsor/fastly.png" alt="Fastly" style="width: 200px;" /></td>
   </tr>
   <tr>
     <td><a href="http://hatenacorp.jp/">Hatena</a> (<a href="https://mackerel.io/">Mackerel</a>, Server-Monitoring)</td>
-    <td class="sponsor-logo"><img src="../../../images/about/sponsor/mackerel.png" alt="Mackerel" /></td>
+    <td class="sponsor-logo"><img src="../../../assets/images/about/sponsor/mackerel.png" alt="Mackerel" /></td>
   </tr>
   <tr>
     <td><a href="https://www.datadoghq.com/">Datadog</a> (Server-Monitoring)</td>
-    <td class="sponsor-logo"><img src="../../../images/about/sponsor/dd.png" alt="Datadog" style="width: 120px;" /></td>
+    <td class="sponsor-logo"><img src="../../../assets/images/about/sponsor/dd.png" alt="Datadog" style="width: 120px;" /></td>
   </tr>
   <tr>
     <td><a href="https://1password.com/">1Password</a> (Passwort-Manager)</td>
-    <td class="sponsor-logo"><img src="../../../images/about/sponsor/1password.png" alt="1Password" style="width: 250px;" /></td>
+    <td class="sponsor-logo"><img src="../../../assets/images/about/sponsor/1password.png" alt="1Password" style="width: 250px;" /></td>
   </tr>
 </table>
 

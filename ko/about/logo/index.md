@@ -18,6 +18,6 @@ Ruby 로고의 저작권은 &copy; 2006, 마츠모토 유키히로에게 있습�
 Ruby 로고가 들어있습니다.
 
 
-[logo]: /images/header-ruby-logo.png
+[logo]: /assets/images/header-ruby-logo.png
 [logo-kit]: https://cache.ruby-lang.org/pub/misc/logo/ruby-logo-kit.zip
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/2.5/

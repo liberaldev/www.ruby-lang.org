@@ -16,6 +16,6 @@ lang: ja
 [Ruby Logo Kit][logo-kit] にはいくつかのフォーマット (PNG, JPG, PDF, AI, SWF, XAR) で Ruby ロゴが含まれています。
 
 
-[logo]: /images/header-ruby-logo.png
+[logo]: /assets/images/header-ruby-logo.png
 [logo-kit]: https://cache.ruby-lang.org/pub/misc/logo/ruby-logo-kit.zip
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/2.5/

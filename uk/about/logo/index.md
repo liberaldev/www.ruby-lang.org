@@ -18,6 +18,6 @@ lang: uk
 (PNG, JPG, PDF, AI, SWF, XAR).
 
 
-[logo]: /images/header-ruby-logo.png
+[logo]: /assets/images/header-ruby-logo.png
 [logo-kit]: https://cache.ruby-lang.org/pub/misc/logo/ruby-logo-kit.zip
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/2.5/
