@@ -1,7 +1,7 @@
 {% assign home = site.data.locales.home[page.lang] %}
 
 <!-- Community Section Wrapper with background decorations -->
-<div class="community-wrapper bg-gold-150 dark:bg-stone-770 relative overflow-hidden isolate before:content-[''] before:hidden before:lg:block before:absolute before:z-[-1] before:w-[840px] before:h-[1328px] before:bg-[url('/images/home/hero/bg.svg')] dark:before:bg-[url('/images/home/hero/bg-dark.svg')] before:bg-no-repeat before:bg-contain before:-left-[20rem] before:-bottom-[20rem] before:pointer-events-none after:content-[''] after:hidden after:lg:block after:absolute after:z-[-1] after:w-[840px] after:h-[1328px] after:bg-[url('/images/home/hero/bg.svg')] dark:after:bg-[url('/images/home/hero/bg-dark.svg')] after:bg-no-repeat after:bg-contain after:-right-[20rem] after:-top-[20rem] after:rotate-180 after:pointer-events-none">
+<div class="community-wrapper bg-gold-150 dark:bg-stone-770 relative overflow-hidden isolate before:content-[''] before:hidden before:lg:block before:absolute before:z-[-1] before:w-[840px] before:h-[1328px] before:bg-[url('/assets/images/home/hero/bg.svg')] dark:before:bg-[url('/assets/images/home/hero/bg-dark.svg')] before:bg-no-repeat before:bg-contain before:-left-[20rem] before:-bottom-[20rem] before:pointer-events-none after:content-[''] after:hidden after:lg:block after:absolute after:z-[-1] after:w-[840px] after:h-[1328px] after:bg-[url('/assets/images/home/hero/bg.svg')] dark:after:bg-[url('/assets/images/home/hero/bg-dark.svg')] after:bg-no-repeat after:bg-contain after:-right-[20rem] after:-top-[20rem] after:rotate-180 after:pointer-events-none">
 
   <!-- Wave Border from previous section (white fills the valleys, gold peaks show through) -->
   <div class="h-6 md:h-8 text-white dark:text-stone-900">
@@ -46,7 +46,7 @@
   </svg>
 
   <!-- Photo Gallery (Full Width) -->
-  {% assign community_photos = site.static_files | where_exp: "file", "file.path contains '/images/home/community/pics/'" | where_exp: "file", "file.extname == '.jpg' or file.extname == '.png' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.PNG' or file.extname == '.JPEG'" %}
+  {% assign community_photos = site.static_files | where_exp: "file", "file.path contains '/assets/images/home/community/pics/'" | where_exp: "file", "file.extname == '.jpg' or file.extname == '.png' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.PNG' or file.extname == '.JPEG'" %}
   {% assign photo_count = community_photos | size %}
   {% assign scroll_duration = photo_count | times: 2.5 %}
   <div class="relative overflow-hidden mb-6 lg:mb-8 pt-2 h-[170px] 2xl:h-[200px]">
