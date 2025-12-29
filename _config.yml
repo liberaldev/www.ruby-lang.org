@@ -20,6 +20,9 @@ exclude:
   - vendor
   - tsconfig.json
 
+plugins:
+  - jekyll-postcss-v2
+
 url: https://www.ruby-lang.org
 
 license:
